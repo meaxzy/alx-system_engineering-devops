@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# kill last running bash process without kill or killall
+
+pkill -f 'to_infinity_and_beyond'
